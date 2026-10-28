@@ -1,0 +1,44 @@
+视角策略预设库（v1.3）
+======================
+用法：在工具界面里把「视角策略表」原内容删掉，粘贴下面任意一整段即可。
+每行格式： 文件名后缀 | 视角名 | ALT侧重短语（英文，进 ALT 用）
+
+（界面默认就是这套）
+main-view | Main View | Product Overall View
+detail-view-1 | Detail Close-up | Build Quality and Material Detail
+scene-view-1 | In Use | In Use on Desk
+feature-view-1 | Feature Highlight | Key Feature in Action
+detail-view-2 | Interface Detail | Ports and Controls Detail
+scene-view-2 | Lifestyle Scene | Everyday Use Scene
+angle-view-1 | Side Angle | Side Profile View
+package-view-1 | Package | Package and Accessories
+
+
+main-view | Front View | Front Full View
+detail-view-1 | Fabric Detail | Fabric Texture Close-up
+scene-view-1 | On Model | Worn Look on Model
+feature-view-1 | Design Feature | Design Detail Highlight
+detail-view-2 | Craft Detail | Stitching and Craftsmanship
+scene-view-2 | Styling Scene | Outfit Pairing Scene
+angle-view-1 | Back View | Back Full View
+package-view-1 | Package | Package and Size Options
+
+
+main-view | Main View | Product Overall View
+detail-view-1 | Material Detail | Material and Finish Close-up
+scene-view-1 | Home Scene | In a Home Setting
+feature-view-1 | Feature Highlight | Practical Feature in Use
+detail-view-2 | Size Detail | Dimensions and Capacity
+scene-view-2 | Lifestyle Scene | Daily Life Scene
+angle-view-1 | Side Angle | Side Profile View
+package-view-1 | Package | Package Contents
+
+
+main-view | Main View | Product Overall View
+detail-view-1 | Detail View | Product Detail Close-up
+scene-view-1 | Scene View | Product In Use
+feature-view-1 | Feature View | Key Feature Highlight
+detail-view-2 | Detail View 2 | Design Detail
+scene-view-2 | Scene View 2 | Usage Scene
+angle-view-1 | Angle View | Another Angle
+package-view-1 | Package View | Package and Contents
